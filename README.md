@@ -78,15 +78,6 @@ The purpose of this lab is to explore and compare clustering techniques, focusin
 - Deciding when to use DBSCAN versus other clustering algorithms (like k-means or hierarchical clustering) was based on data distribution and presence of noise.
 - Handling and interpreting outliers as "noise" was a key decision in evaluating the clustering results.
 
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- seaborn (optional, for advanced visualization)
 
 Install the requirements with:
 
@@ -156,16 +147,7 @@ Follow the cells sequentially for:
 - Data loading and exploration
 - Running both clustering algorithms
 - Viewing visualizations and evaluation metrics
-
-## Requirements
-
-- Python 3
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- matplotlib
-- scipy
-- numpy
+  
 
 Install dependencies (if needed):
 
